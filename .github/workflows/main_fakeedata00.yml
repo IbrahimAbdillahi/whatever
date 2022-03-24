@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Fakeedata00'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8FF6DD06E0642DF8FF91DA2CDBAD942 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1DC749AA5014D819344E117FE3A9669 }}
